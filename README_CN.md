@@ -466,6 +466,13 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/akudamatata">
+                    <img src="https://avatars.githubusercontent.com/u/26323652?v=4" width="90;" alt="akudamatata"/>
+                    <br />
+                    <sub><b>akudamatata</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/beautifulrem">
                     <img src="https://avatars.githubusercontent.com/u/98527099?v=4" width="90;" alt="beautifulrem"/>
                     <br />
@@ -493,6 +500,8 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Hyzhao</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lakca">
                     <img src="https://avatars.githubusercontent.com/u/16255922?v=4" width="90;" alt="lakca"/>
@@ -500,8 +509,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Null</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liudonghua123">
                     <img src="https://avatars.githubusercontent.com/u/2276718?v=4" width="90;" alt="liudonghua123"/>
